@@ -2,6 +2,15 @@
 .h {
   text-align: center;
 }
+.latest-news-section{
+	padding:0px;
+	width:350px; background:white;border-radius: 25px;text-align: center;
+}
+.pictorial-news-section{
+	 width=400px;background:white;border-radius: 25px;
+	padding:0px;
+	text-align: center;
+}
 .mainH{
 	background: #011e29;
 	color:white;
