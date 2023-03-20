@@ -5,8 +5,9 @@
 .mainH{
 	background: #011e29;
 	color:white;
-	padding-top:10px;
-	padding-bottom:10px;
+/* 	padding-top:10px;
+	padding-bottom:10px; */
+	padding:10px;
 	
 }
 .b{
@@ -16,6 +17,7 @@
 	flex-direction:row;
 /* 	background:blue; */
 	align-items:start;
+	padding-top:10px;
 	
 	justify-content:space-between
 }
