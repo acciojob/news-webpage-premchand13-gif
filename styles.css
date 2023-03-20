@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.h {
+  text-align: center;
+}
+.mainH{
+	background: #011e29;
+	color:white;
+	padding-top:10px;
+	padding-bottom:10px;
+	
+}
+.b{
+	display:flex;
+	width:1150px;
+	padding-left:25px;
+	flex-direction:row;
+/* 	background:blue; */
+	align-items:start;
+	
+	justify-content:space-between
+}
